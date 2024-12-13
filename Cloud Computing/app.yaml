@@ -1,0 +1,8 @@
+runtime: python39  # atau versi Python yang Anda gunakan
+service: backend
+entrypoint: gunicorn -b :$PORT main:app  # ganti 'main' dengan nama file Python Anda
+
+instance_class: F2
+handlers:
+- url: /.*
+  script: auto
