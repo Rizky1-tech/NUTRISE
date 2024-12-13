@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "226913672824",
+    "firebase_url": "https://nutrise-dc7c9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nutrise-dc7c9",
+    "storage_bucket": "nutrise-dc7c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226913672824:android:8cce0e7c63126c40d4178d",
+        "android_client_info": {
+          "package_name": "com.capstone.nutrise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQduxt2PPz8nWucTkDUZHQ1FENBvkvD4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226913672824:android:0ecae4288fbabc77d4178d",
+        "android_client_info": {
+          "package_name": "com.capstone.nutriseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQduxt2PPz8nWucTkDUZHQ1FENBvkvD4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226913672824:android:57615bdd0b02aabbd4178d",
+        "android_client_info": {
+          "package_name": "com.capstone_bangkit.nutrise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQduxt2PPz8nWucTkDUZHQ1FENBvkvD4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226913672824:android:c5edc9a58e9cc28ed4178d",
+        "android_client_info": {
+          "package_name": "com.yosua.nutrise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQduxt2PPz8nWucTkDUZHQ1FENBvkvD4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226913672824-ea7hed2s2453eu3ogpb63r99r1kiqrg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
