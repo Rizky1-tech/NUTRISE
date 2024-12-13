@@ -1,3 +1,4 @@
+# CLOUD COMPUTING Task
 # Image Prediction Application
 
 This application is a web service that receives an image, predicts its content using a machine learning model, and retrieves related information from Firebase.
