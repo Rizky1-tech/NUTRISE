@@ -9,7 +9,7 @@
 
 
 
-# Nutrise
+# Mobile Development
 
 Selamat datang di **Nutrise**, aplikasi terbaik untuk Capstone Project Bangkit Batch 2 2024! 🎉
 
