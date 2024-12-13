@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Nutrise</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_setting">Setting</string>
+    <string name="page_login">Masuk</string>
+    <string name="desc_login">Ayo lihat nutrisi yang ada pada makanan yang kamu suka</string>
+    <string name="page_register">Daftar</string>
+    <string name="desc_register">Ayo daftar sekarang!</string>
+    <string name="logo_aplikasi">logo aplikasi</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="logout">Keluar</string>
+    <string name="username">Username</string>
+    <string name="user123">User123</string>
+    <string name="total_history">Total History</string>
+    <string name="_0">0</string>
+    <string name="privasi">Privasi</string>
+    <string name="history_scan">History Scan</string>
+    <string name="history_scan_">History Scan</string>
+    <string name="next">Next</string>
+    <string name="ganti_username_dan_password">Ganti Username dan Password</string>
+    <string name="akun">Akun</string>
+    <string name="setting_mode_malam">Setting Mode Malam</string>
+    <string name="setting_mode_malam_">Setting Mode Malam</string>
+    <string name="edit_informasi_akun">Edit Informasi Akun</string>
+    <string name="button_text">Lanjut</string>
+    <string name="logo">logo</string>
+    <string name="title_onboarding1">Play Anywhere</string>
+    <string name="description_onboarding1">The video call feature can be accessed from anywhere in your house to help you.</string>
+
+    <string name="title_onboarding2">Stay Healthy</string>
+    <string name="description_onboarding2">Nobody likes to be alone and the built-in group video call feature helps you connect.</string>
+
+    <string name="title_onboarding3">Make Connections</string>
+    <string name="description_onboarding3">While working the app reminds you to smile, laugh, walk and talk with those who matters.</string>
+
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Sederet Manfaat Kesehatan Biji Ketumbar, Ampuh Turunkan Kolesterol</item>
+        <item>5 Manfaat Daun Jambu Biji, Tak Cuma Atasi Diare</item>
+        <item>Cukup 30 Menit, Rasakan 5 Manfaat Berjalan Kaki Ruin Tiap Hari</item>
+        <item>Mengulik soal Kanker Prostat, Bahaya yang Kerap Tak Disadari</item>
+        <item>Mau Awet Muda? Rutin Lakukan OlahRaga Sederhana ini</item>
+        <item>Viral di TikTok, Apa itu Diet 90–30-50?</item>
+    </string-array>
+
+    <string-array name="data_describtion">
+        <item>Jakarta, CNN Indonesia -- Tak banyak yang tahu bahwa manfaat biji ketumbar bukan hanya menyedapkan masakan, tapi juga menyehatkan. Tambahkan biji ketumbar pada diet harian dan rasakan manfaatnya.Biji ketumbar berasal dari tumbuhan ketumbar (Coriandrum sativum) yang masih punya hubungan dengan parsley, wortel dan seledri. Di Indonesia, biji ketumbar umum digunakan sebagai bumbu masakan.</item>
+        <item>Jakarta, CNN Indonesia -- Manfaat daun jambu biji yang paling populer bisa jadi untuk meredakan diare. Padahal daun ini mampu memberikan aneka manfaat kesehatan.Jambu biji begitu nikmat disantap langsung atau diolah jadi jus. Jus jambu biji bahkan diyakini bisa membantu pemulihan pasien DBD. Selain buahnya, daun jambu biji juga mampu memberikan manfaat.</item>
+        <item>Jakarta, CNN Indonesia -- Jalan kaki jadi olahraga murah dan mudah dilakukan. Jika dilakukan rutin setiap hari, manfaat berjalan kaki selama 30 menit ada banyak. Apa saja?Ketimbang jenis olahraga lain, jalan kaki tidak memerlukan teknik khusus dan rumit. Pun Anda tidak memerlukan alat tertentu dan bahkan jalan kaki bisa dilakukan kapan pun.</item>
+        <item>Jakarta, CNN Indonesia -- Kanker prostat adalah penyakit yang kerap dianggap momok bagi para lelaki. Sebenarnya, kanker prostat dapat ditangani dan hasilnya akan lebih baik jika terdeteksi dini.Data Globocan pada 2022 menyatakan, kanker prostat menduduki kanker kelima paling banyak yang terjadi pada laki-laki di Indonesia. Meski sulit dihindari, kanker ini sangat bisa ditangani melalui pengobatan dan terapi yang tepat.Dokter Spesialis Urologi Konsultan Onkologi, dr. Syamsu Hudaya, Sp.U (K) dari Mayapada Hospital Jakarta Selatan menjelaskan, tumor adalah segala sesuatu yang membesar, umumnya berupa benjolan, dan pertumbuhannya kerap tidak terkendali.</item>
+        <item>Jakarta, CNN Indonesia -- Tampil awet muda tak hanya bermodal rajin pakai produk skincare. Tubuh pun perlu dirawat dengan aktivitas fisik rutin. Berikut rekomendasi olahraga sederhana agar awet muda.Rutinitas perawatan kulit makin kencang dilakukan demi menolak tua. Krim mata, retinol, bahkan sampai botox dan operasi dilakukan agar kulit tetap segar dan tampak awet muda.</item>
+        <item>Jakarta, CNN Indonesia -- Jika Anda kerap gagal dengan sejumlah metode diet, mungkin Anda perlu mencoba diet 90-30-50 yang sedang viral di TikTok. Apa itu diet 90-30-50?Berawal dari rancangan diet untuk pasien tiroiditis Hashimoto, diet 90-30-50 ala dietisien Courtney Kassis jadi ramai diperbincangkan.</item>
+    </string-array>
+    <string name="image_description">description</string>
+</resources>
