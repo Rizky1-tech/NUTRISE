@@ -1,0 +1,8 @@
+Flask==3.1.0
+tensorflow==2.18.0
+firebase-admin==6.6.0
+google-cloud-storage==2.19.0
+google-cloud-firestore==2.19.0
+gunicorn==23.0.0
+flask-cors==3.0.10
+Pillow==11.0.0
